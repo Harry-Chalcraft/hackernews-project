@@ -22,8 +22,6 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<img src="https://1.bp.blogspot.com/-5EQZn7xfTdQ/XwDfYwkvr-I/AAAAAAAAA6E/3gqZqoioX3Mmun0v4knb_E3w4l4bzyqUwCK4BGAsYHg/s2880/screencapture-file-Users-varun-Desktop-shravan-hackernews-coverage-index-html-2020-07-05-01_04_37.png" raw=true alt="Test Cases" style="margin-right: 10px;" />
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
