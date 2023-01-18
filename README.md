@@ -1,9 +1,5 @@
 Hackernews clone webapp
 
-Demo web app url: https://marvelous-capitol-reef-73968.herokuapp.com/
-
-Deployment platform: Heroku
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img src="https://1.bp.blogspot.com/-Y8B3K_dpjCM/XwDfZOtCofI/AAAAAAAAA6I/Q7o9_fJLe1EZUKRmDHdYB_0wO5KVGDe9gCK4BGAsYHg/s3306/screencapture-marvelous-capitol-reef-73968-herokuapp-2020-07-04-20_13_45.png" raw=true alt="Hackernews clone" style="margin-right: 10px;" />
